@@ -1,4 +1,4 @@
-# Data Scientist and Oceanography student
+# Data Scientist and Computer Science student
 
 #### Technical Skills: Python, SQL, Excel, Power BI
 
