@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, Power BI
 
 ## Education
-- Bachelor's Degree in Oceanography | Universidad de Buenos Aires (_March 2024_ - _Present_)								       		
+- Bachelor's Degree in Data Science | Universidad de Buenos Aires (_March 2024_ - _Present_)								       		
 - Data Science	| Coderhouse (_December 2022_)	 			        		
 - Data analytics | Coderhouse (_May 2021_)
 
