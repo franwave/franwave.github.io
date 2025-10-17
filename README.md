@@ -13,7 +13,7 @@
 
 
 ## Work Experience
-**Programming Tutor @ Kodland (_March 2021 - Present_)**
+**Programming Tutor @ Kodland (_March 2021 - March 2024)**
 - Taught programming and digital skills to children and teenagers, using interactive and engaging
 teaching methods that promote active learning
 - Developed and adapted teaching materials for different skill levels, ensuring all students could
